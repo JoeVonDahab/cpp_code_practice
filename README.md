@@ -5,11 +5,13 @@
 
 ## Instruction
 
-Just run ```bash
+Just run:
+```bash
 ./weight_calculator    # Linux/Mac
 weight_calculator.exe  # Windows
 ```
 - The code is provided for editing 
 - By Youssef Abo-Dahab
+
 
 
